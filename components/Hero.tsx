@@ -16,7 +16,7 @@ export function Hero() {
         </ScrollReveal>
         <ScrollReveal delay={200}>
           <p className="hero-subtitle">
-            Self-taught developer and designer with a focus on turning ideas into working products — from web apps and mobile prototypes to embedded systems and games.
+            Freelance developer and designer with a focus on turning ideas into working products — from web apps and mobile prototypes to embedded systems and games.
           </p>
         </ScrollReveal>
         <ScrollReveal delay={300}>

@@ -22,7 +22,7 @@ export function About() {
           <ScrollReveal delay={0}>
             <div className="about-text">
               <p>
-                [I'm a self-taught developer and designer based in Taiwan. I've spent the last several years learning across web development, embedded systems, mobile prototyping, and game dev — not to check boxes, but because I like taking ideas from zero to a working product.]
+                [I'm a freelance developer and designer based in Taiwan. I've spent the last several years working across web development, embedded systems, mobile prototyping, and game dev — not to check boxes, but because I like taking ideas from zero to a working product.]
               </p>
               <p>
                 [I believe the best developers understand design, and the best products come from people who can move between hardware and software, code and pixels. My work tends to sit at that intersection.]
